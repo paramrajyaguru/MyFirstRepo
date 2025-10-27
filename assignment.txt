@@ -1,0 +1,2 @@
+This is my first GitHub assignment.
+I'm learning how to create, commit, and push files to a repository.
